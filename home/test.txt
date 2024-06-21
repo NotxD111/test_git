@@ -1,0 +1,2 @@
+测试用于移动文件到其他位置的txt文件
+ git mv filename file // 移动filename文件到file文件夹
